@@ -75,7 +75,7 @@ function Navbar() {
               damping: 20,
             }}
           >
-            Invoice Maker
+            Nazir Book Shop
             <InvoiceNavbarLoading
               loop
               className="nav-loading-right "

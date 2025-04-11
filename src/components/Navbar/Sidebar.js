@@ -83,7 +83,7 @@ function Sidebar() {
             <span className="nav-loading">
               <InvoiceNavbarLoading loop />
             </span>
-            Invoice Maker
+            Nazir Book Shop
           </motion.span>
         </div>
 
@@ -165,7 +165,7 @@ function Sidebar() {
               whileTap={{ scale: 0.9 }}
             >
               <SecurityIcon className="h-6 w-6 mr-4" />
-              About Me
+              
             </motion.span>
           </NavLink>
         </div>
